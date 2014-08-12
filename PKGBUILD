@@ -12,6 +12,7 @@ provides=("relx")
 source=('git://github.com/erlware/relx.git')
 makedepdends=('git')
 md5sums=('SKIP')
+makedepdends=('git')
 
 _gitname='relx'
 
