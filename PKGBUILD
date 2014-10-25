@@ -9,8 +9,7 @@ license=('Apache')
 url="https://github.com/erlware/relx"
 depends=('erlang-nox' 'rebar')
 provides=("relx")
-source=('git://github.com/erlware/relx.git')
-makedepdends=('git')
+source=('git://github.com/erlware/relx')
 md5sums=('SKIP')
 makedepdends=('git')
 
